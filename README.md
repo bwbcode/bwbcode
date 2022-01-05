@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bwbcode
+- 👀 I’m interested in building apps, data science, and learning new things
+- 🌱 I’m currently learning how to utilize APIs to scrape and analyze sports data

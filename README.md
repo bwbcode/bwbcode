@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @bwbcode
-- 👀 I’m interested in building apps, data science, and learning new things
-- 🌱 I’m currently learning how to utilize APIs to scrape and analyze sports data
+- 🎓 Hi, my name is brady. I am a full-stack developer, an engineer, and a security admin.
+- 👀 I’m interested in analyzing (mainly sports) data and building apps.

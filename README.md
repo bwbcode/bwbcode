@@ -1,3 +1,3 @@
 - Hi, my name is brady
-- I am a full-stack developer, an engineer, and a security admin
+- I am an engineer + full stack developer
 - I’m interested in analyzing (mainly sports) data and building apps

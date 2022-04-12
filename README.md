@@ -1,3 +1,3 @@
-- Hi, my name is brady
-- I am an engineer + full stack developer
-- I’m interested in analyzing (mainly sports) data and building apps
+brady
+engineer + full stack developer
+interested in analyzing (mainly sports) data and building apps

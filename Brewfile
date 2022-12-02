@@ -6,6 +6,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 brew install azure-cli
 brew install docker
 brew install git
+brew install jq
 brew install mas
 brew install nvm
 brew tap mongodb/brew
@@ -13,6 +14,7 @@ brew install mongodb-community@6.0
 nvm install –lts
 nvm alias default node
 brew install python
+brew install sqlite
 
 brew tap homebrew/cask-versions
 

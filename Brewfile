@@ -15,6 +15,7 @@ nvm install –lts
 nvm alias default node
 brew install python
 brew install sqlite
+brew install putty
 
 brew tap homebrew/cask-versions
 
@@ -28,17 +29,14 @@ brew install --cask brave-browser
 brew install –cask firefox-developer-edition
 brew install --cask microsoft-edge
 
-# Install Microsoft applications for work
+# Install Microsoft applications
 brew install --cask microsoft-auto-update
 brew install --cask microsoft-excel
-brew install --cask microsoft-outlook
 brew install --cask microsoft-remote-desktop
-brew install --cask microsoft-teams
 brew install --cask microsoft-word
 
 brew install --cask bitwarden
-brew install --cask caffeine
-brew install --cask discord
+brew install --cask eddie
 brew install --cask fliqlo
 brew install --cask gimp
 brew install --cask spotify
